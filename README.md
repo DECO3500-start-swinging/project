@@ -5,7 +5,8 @@
 ---
 
 [Team work assignment.xls](https://github.com/DECO3500-start-swinging/project/blob/main/team%20work%20assignment.xls):  
-complete the internal division of labor in the project process   
+complete the internal division of labor in the project process  
+
 [Exhibition material folder](https://github.com/DECO3500-start-swinging/project/tree/main/Exhibition%20materials):  
 files for team presentation, including poster and brochure, so that users can have a preliminary understanding of the project 
 
