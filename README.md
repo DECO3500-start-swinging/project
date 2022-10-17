@@ -14,7 +14,7 @@ files for team presentation, including poster and brochure, so that users can ha
 integrating team meeting minutes and feedback in stand up 
 
 [Prototype folder](https://github.com/DECO3500-start-swinging/project/tree/main/Prototype):  
-contains a preview from lo-fi prototype to hi-fi prototype, and provides a [link to the prototype](https://github.com/DECO3500-start-swinging/project/blob/main/Prototype/Prototype%20Link) so that the audience can experience our team's project at any time. [The function prototype file](https://github.com/DECO3500-start-swinging/project/tree/main/Prototype/Function%20Prototype)is integrated, and users can use the Readme Functional_ Prototype. The docx file configures the environment and experiences the function prototype.    
+contains a [preview from lo-fi prototype to hi-fi prototype](https://github.com/DECO3500-start-swinging/project/tree/main/Prototype/Prototype%20Preview), and provides a [link to the prototype](https://github.com/DECO3500-start-swinging/project/blob/main/Prototype/Prototype%20Link) so that the audience can experience our team's project at any time. [The function prototype file](https://github.com/DECO3500-start-swinging/project/tree/main/Prototype/Function%20Prototype)is integrated, and users can use the Readme Functional_ Prototype. The docx file configures the environment and experiences the function prototype.    
 
 [Social folder](https://github.com/DECO3500-start-swinging/project/tree/main/Social):  
 containing social framework and social pattern files    
