@@ -28,7 +28,7 @@ the record file of the team in the project establishment process. Including the 
   
 ---
 
-Team start-swinging 
+Team start-swinging   
 Team Member:  
 Xin Gong, Benzhuo Tian, Yifei Liu, Jiayu Chen, Mingyi Ren, Futian Jiang
 
