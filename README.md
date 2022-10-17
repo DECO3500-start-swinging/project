@@ -1,4 +1,4 @@
-# Study line Readme.md  
+# Study line  
 This project provide a service that can support multi platform progress sharing and allow students to easily import and manage the learning materials, assignments and task lists of all ongoing subjects. This can reduce the steps as well as the time and energy required by students to navigate, organize and plan on several different platforms, and help them focus on their work in a very short time after they have the idea of preparing to start learning. Then, students can set up study groups and choose to share their daily learning progress with other members of the group
 
 ## The following is a description of the files in the repository:    
