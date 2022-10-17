@@ -23,5 +23,5 @@ containing social framework and social pattern files
 record and analyze user test results during iteration    
 
 [Conceptual design progress folder](https://github.com/DECO3500-start-swinging/project/tree/main/conceptual%20design%20progress):  
-the record file of the team in the project establishment process. Including the [interview script of the user](https://github.com/DECO3500-start-swinging/project/tree/main/conceptual%20design%20progress/Interview%20Script); Screenshot records of affinity graph and conceptual design based on user interviews; MIRO link; The story board and persona files in the Persona folder.
+the record file of the team in the project establishment process. Including the [interview script of the user](https://github.com/DECO3500-start-swinging/project/tree/main/conceptual%20design%20progress/Interview%20Script); Screenshot records of affinity graph and conceptual design based on user interviews; MIRO link; The story board and persona files in the [Persona folder](https://github.com/DECO3500-start-swinging/project/tree/main/conceptual%20design%20progress/Persona).
 
