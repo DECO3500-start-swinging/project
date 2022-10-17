@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Discussion Area</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body id="discussion">
+       
+    <div id="discussion-container">
+        <div class="comment-box">
+            <header class="content">
+                <h2>DECO 3500 discussion area</h2>
+            </header>
+            <div class="content">
+                <input type="text" id="name" placeholder="Name" >
+
+            </div>
+            <div class="content">
+                <textarea name="comment" id="comment" cols="30" rows="4" placeholder="Please input your message here ..."></textarea>
+            </div>
+            <div class="content">
+                <button id="btn-submit">LEAVE A COMMENT</button>
+            </div>
+            <div class="list">
+                <div>
+                    <h2>MESSAGE LIST</h2>
+                    <div id="discussion-comments">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="attribution">
+        <p>
+           <a href="index.html" target="_blank">Learning Tips Sharing</a>
+           &
+           <a href="discussion.html" target="_blank">Discussion area</a>
+           &nbsp;
+           Created by <a href="https://github.com/DECO3500-start-swinging/project/wiki" target="_blank">Team Start Swinging</a>
+        </p>
+    </div>
+
+    <script src="discussion.js"></script>
+</body>
+
+</html>

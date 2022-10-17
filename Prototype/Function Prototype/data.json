@@ -1,0 +1,63 @@
+{
+  "currentUser": {
+    "image": { 
+      "png": "./images/User-1.png"
+    },
+    "username": "Tommy"
+  },
+  "comments": [
+    {
+      "id": 1,
+      "content": "The 'Social' includes Awareness, Collaboration, Coordination, Articulation work, Conversation, Interaction, Mutual learning, Presence, Activity traces, Synchronous/Asynchronous ...",
+      "createdAt": "3 weeks ago",
+      "score": 12,
+      "user": {
+        "image": { 
+          "png": "./images/User-3.png"
+        },
+        "username": "Jenny"
+      },
+      "replies": []
+    },
+    {
+      "id": 2,
+      "content": "The 'Mobile' includes Context-specific, Context-diverse, Context-independent, Context-aware, Location-specific, Location-aware, Transience, Public/private ...",
+      "createdAt": "2 weeks ago",
+      "score": 6,
+      "user": {
+        "image": { 
+          "png": "./images/User-2.png"
+        },
+        "username": "Bob"
+      },
+      "replies": [
+        {
+          "id": 4,
+          "content": "Hi Bob, thanks for your sharing, it reminds me the taught content I forget.",
+          "createdAt": "1 week ago",
+          "score": 4,
+          "replyingTo": "Bob",
+          "user": {
+            "image": { 
+              "png": "./images/User-1.png"
+            },
+            "username": "Tommy"
+          }
+        },
+        {
+          "id": 34,
+          "content": "But when I was thinking about what is not a 'mobile', I encountered some problems. Maybe I need to understand the difference between mobile phones and 'mobile'",
+          "createdAt": "6 days ago",
+          "score": 2,
+          "replyingTo": "Bob",
+          "user": {
+            "image": { 
+              "png": "./images/User-1.png"
+            },
+            "username": "Tommy"
+          }
+        }
+      ]
+    }
+  ]
+}
